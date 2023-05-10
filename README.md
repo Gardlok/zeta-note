@@ -4,6 +4,8 @@ _Delightful note taking in markdown..._
 
 [![Build & Test](https://github.com/artempyanykh/zeta-note/actions/workflows/push.yml/badge.svg?branch=main)](https://github.com/artempyanykh/zeta-note/actions/workflows/push.yml)
 
+**2023 Update: I've opened this to slowly integrate zetanote into another existing project.**
+
 **THIS PROJECT IS RETIRED:**
 Zeta Note has been retired as I don't have enough free time to continue
 development in Rust. The product however lives on, and is [developed in F# under
